@@ -1,3 +1,7 @@
+"""
+This is the sample code
+"""
+
 print("hello welcome the fist git session")
 
 print("hello this is the second commit")
